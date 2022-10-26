@@ -1,0 +1,23 @@
+## GUI
+    - Select meal times
+    - Select amount of people per meal
+    - Select properties
+    - Reroll
+    - Export shopping list
+
+## Logic
+    - Rate recipes
+    - Track history of meals
+        - Date
+
+## Input
+- Each meal as Excel
+    - Sheet 1 has properties
+    - Sheet 2 has list of ingredients
+
+
+
+
+## BUG ALARM
+- What if constraints return an empty list / too short list for amount of meals
+
